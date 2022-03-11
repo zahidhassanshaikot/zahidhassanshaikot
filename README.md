@@ -34,8 +34,8 @@
         <br/> -->
         
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<!-- <h2 align="center">⚡ Stats ⚡</h2> -->
+<!-- <br> -->
 <p align=center>
   <div align=center>
     <a href="https://github.com/zahidhassanshaikot/github-readme-streak-stats" title="Go to Source">
@@ -61,7 +61,17 @@
   <p align="center"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/zahidhassanshaikot/count.svg" />
-     
+</p>
+
+<p align="center">
+<a href="https://www.shaikot.com"><img src="https://img.shields.io/badge/-shaikot.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/zahidhassanshaikot"><img src="https://img.shields.io/badge/-Zahid%20Hassan%20Shaikot-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:zahidhassanshaikot@gmail.com"><img src="https://img.shields.io/badge/-zahidhassanshaikot@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/zahid_hassan_shaikot"><img src="https://img.shields.io/badge/-@zahid_hassan_shaikot-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/zahidhassanshaikot"><img src="https://img.shields.io/badge/-@zahidhassanshaikot-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
+<a href="https://stackoverflow.com/users/8440995/zahid-hassan-shaikot"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&&logo=stack-overflow&logoColor=white"/></a>
+    <a href="https://www.kaggle.com/zahidhassanshaikot"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/></a>
 </p>
 
 </body>
