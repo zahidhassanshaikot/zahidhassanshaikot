@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<!--     <p align="center">
-        <ul>   
+<!--     <p align="center"> -->
+<!--         <ul>    -->
 <!--           <img src="https://github.com/zahidhassanshaikot/zahidhassanshaikot/blob/main/images/1.jpeg" /> -->
-          <h1 align="center">Hi 👋, I'm Zahid Hassan Shaikot </h1>
-          <h1 align="center">Web Developer</h1>
-          <li> I’m interested in Web Application Development.</li>
-          <li> I’m currently Working with PHP Laravel.</li>
+<!--           <h1 align="center">Hi 👋, I'm Zahid Hassan Shaikot </h1> -->
+<!--           <h1 align="center">Web Developer</h1> -->
+<!--           <li> I’m interested in Web Application Development.</li> -->
+<!--           <li> I’m currently Working with PHP Laravel.</li> -->
 <!--           <li> I’m currently learning more about Dart</li> -->
-        </ul>
-      </p>	 -->
+<!--         </ul> -->
+<!--       </p>	 -->
 <!--       <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150"> -->
       <div align="center">
         <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
@@ -60,7 +60,7 @@
 </p>
   <p align="center"> 
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/aliashfak178/count.svg" />
+  <img src="https://profile-counter.glitch.me/zahidhassanshaikot/count.svg" />
      
 </p>
 
