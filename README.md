@@ -17,7 +17,7 @@
 <!--         </ul> -->
 <!--       </p>	 -->
 <!--       <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150"> -->
-      <div align="center">
+<!--       <div align="center">
         <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
       </div> 
     <p align="center">
@@ -31,23 +31,23 @@
                 <img align="center" alt="Nahid's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
         </a>
         <br/>
-        <br/>
+        <br/> -->
         
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/zahidhassanshaikot/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=zahidhassanshaikot&theme=react&border=61dafb&hide_border=true" alt="zahidhassanshaikot" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/zahidhassanshaikot/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=zahidhassanshaikot&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/zahidhassanshaikot/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidhassanshaikot&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&count_private=true&include_all_commits=true" />
     </a>
   </div>
